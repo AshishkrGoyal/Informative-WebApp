@@ -11,4 +11,6 @@
 
  - `node server.js`
 
+### Now Open your browser and type localhost:2020 and see the magic
 
+### Enjoy :)
